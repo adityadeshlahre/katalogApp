@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "afterDelay",
+    "dart.devToolsLocation": "external",
+    "dart.openDevTools": "never",
+    "editor.formatOnSave": true,
+    "editor.guides.bracketPairs": true,
+    "dart.previewFlutterUiGuides": true,
+    "dart.devToolsBrowser": "default",
+    "editor.wordWrap": "on",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}

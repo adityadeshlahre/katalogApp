@@ -1,0 +1,60 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "SGS21Ultra",
+      "description": "A premium Android smartphone.",
+      "price": 1199,
+      "color": "#eeeee4",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/j/y/6/-original-imaggj686yhjdrgk.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "AMP16-inch",
+      "description": "A high-performance laptop.",
+      "price": 2399,
+      "color": "#76b5c5",
+      "image": "https://cdn.shopify.com/s/files/1/0513/8205/9159/products/AppleMacBookPro202216-InchMNW83M2ProChip512GBSSD_SpaceGrey_4.jpg"
+    },
+    {
+      "id": 3,
+      "name": "SonyHeadphones",
+      "description": "Industry-leading noise-canceling headphones.",
+      "price": 349,
+      "color": "#873e23",
+      "image": "https://cdn.shopify.com/s/files/1/0298/8048/3976/products/standard2048x2048-1_714d8cbd-edfa-47fc-bafa-0f71edc59988.jpg?v=1587176615"
+    },
+    {
+      "id": 4,
+      "name": "LGC1OLEDTV",
+      "description": "A premium 4K OLED TV.",
+      "price": 2499,
+      "color": "#abdbe3",
+      "image": "https://www.lg.com/us/images/tvs/md07521462/gallery/large05.jpg"
+    },
+    {
+      "id": 5,
+      "name": "CanonEOSR5",
+      "description": "A professional-grade mirrorless camera.",
+      "price": 3899,
+      "color": "#063970",
+      "image": "https://i04.hsncdn.com/is/image/HomeShoppingNetwork/rocs1200/canon-eos-r5-mirrorless-digital-camera-with-24-105mm-f4-d-20230405160016873~20904928w.jpg"
+    },
+    {
+      "id": 6,
+      "name": "NSOLEDModel",
+      "description": "A popular gaming console.",
+      "price": 349,
+      "color": "#1e81b0",
+      "image": "https://multiplayer.net-cdn.it/thumbs/images/2021/07/06/nintendo-switch-oled-10_png_0x0_q85.jpg"
+    },
+    {
+      "id": 7,
+      "name": "BoseSLR",
+      "description": "A portable Bluetooth speaker.",
+      "price": 299,
+      "color": "#e28743",
+      "image": "https://media.musiciansfriend.com/is/image/MMGS7/Soundlink-Revolve-Portable-Wireless-Bluetooth-Speaker-Black/J53186000001000-00-1600x1600.jpg"
+    }
+  ]
+}
