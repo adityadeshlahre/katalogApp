@@ -15,6 +15,7 @@ A catalog app made with Flutter is a versatile and powerful tool for businesses 
 6. Improved online presence: A catalog app made with Flutter can help businesses improve their online presence and increase their reach to potential customers, providing a convenient and accessible way to browse and purchase products or services.
 
 Overall, a catalog app made with Flutter is a smart investment for businesses looking to improve their online presence and enhance the customer experience. With its customizable widgets, fast development cycle, and cross-platform compatibility, Flutter is an excellent framework for creating high-quality and engaging catalog apps.
+
 --------------------------------------------------------------------------------------------------------------
 ## Previews/Screenshots
 
